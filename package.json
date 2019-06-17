@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "resume-filter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/jsrub/resume-filter.git"
   },
-  "author": "Abhishek Sharma",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/jsrub/resume-filter/issues"
   },
